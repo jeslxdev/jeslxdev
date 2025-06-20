@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o João Lima
 
 Bem-vindo ao meu perfil do GitHub!  
-Sou Desenvolvedor FullStack com foco em performance, segurança e manutenção de sistemas críticos. Aqui você encontrará alguns dos meus projetos, estudos e contribuições para a comunidade.
 
 ## 🚀 Sobre mim
 
@@ -43,19 +42,13 @@ Experiência sólida em desenvolvimento de APIs REST, automação de bancos de d
 - Refatoração de sistemas legados
 
 ---
-
 ## 📈 Estatísticas do GitHub
-
 ![Estatísticas do GitHub de jeslxdev](https://github-readme-stats.vercel.app/api?username=jeslxdev&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jeslxdev&layout=compact&theme=radical)
-
 ---
-
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/joao-emanuel-752778174/))  
 
-
----
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios, conectar e contribuir!
