@@ -29,8 +29,8 @@ Experiência sólida em desenvolvimento de APIs REST, automação de bancos de d
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
 </div>
----
-## 🏆 Princípios e Práticas
+
+🏆 Princípios e Práticas
 
 - Clean Code & SOLID  
 - Clean Architecture  
