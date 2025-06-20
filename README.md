@@ -29,9 +29,7 @@ Experiência sólida em desenvolvimento de APIs REST, automação de bancos de d
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
 </div>
-
 ---
-
 ## 🏆 Princípios e Práticas
 
 - Clean Code & SOLID  
@@ -40,12 +38,8 @@ Experiência sólida em desenvolvimento de APIs REST, automação de bancos de d
 - Documentação clara  
 - Segurança desde a base do código  
 - Refatoração de sistemas legados
+---
 
----
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de jeslxdev](https://github-readme-stats.vercel.app/api?username=jeslxdev&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jeslxdev&layout=compact&theme=radical)
----
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/joao-emanuel-752778174/))  
