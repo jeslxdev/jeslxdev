@@ -1,17 +1,27 @@
 # 👋 Olá! Eu sou o João Lima
 
-Bem-vindo ao meu perfil do GitHub!  
+🎯 **Desenvolvedor de Software | Arquitetura Segura | Refatoração de Sistemas Legados**  
+🚀 Especialista em Performance, Segurança e Manutenção de Sistemas Complexos
 
 ## 🚀 Sobre mim
 
-Desenvolvedor FullStack com foco em performance, segurança e manutenção de sistemas críticos.  
-Experiência sólida em desenvolvimento de APIs REST, automação de bancos de dados e refatoração de sistemas legados.
+Com experiência sólida no desenvolvimento de sistemas críticos, atuo como **Full Stack Developer** com foco em soluções de alta performance, seguras e sustentáveis. Tenho forte vivência na construção de REST APIs, automação de bancos de dados e refatoração de sistemas legados — sempre atento à escalabilidade e ao impacto no negócio.
 
-- Trabalho com **PHP** (Hyperf, Laravel, CodeIgniter), **NestJS**, **Elixir**, **Python**, **ReactJS**, **NodeJS** e **Java**.
-- Forte atuação em ambientes ágeis, aplicando boas práticas de clean code, SOLID, clean architecture, testes e documentação.
-- Atualmente me especializo em **segurança da informação**, com ênfase em arquitetura segura e prevenção de vulnerabilidades desde a base do código.
+## 💼 Tech Stack
 
----
+- **Backend:** PHP (Hyperf, Laravel, CodeIgniter), NestJS, Elixir, Python, NodeJS, Java
+- **Frontend:** ReactJS
+- **Práticas:** Clean Code, SOLID, Clean Architecture, testes automatizados, documentação significativa
+
+Atuo de forma fluida entre diferentes stacks e desafios técnicos, sempre guiando times e soluções por meio de boas práticas de arquitetura, qualidade de código e foco no negócio.
+
+## 🛡️ Segurança e Arquitetura
+
+Atualmente, aprofundo meus conhecimentos em **Segurança da Informação**, com foco em arquitetura segura e prevenção de vulnerabilidades desde a base do código — porque segurança não é um complemento, é um fundamento.
+
+## 🚀 Propósito
+
+Sou movido por desafios de alto impacto, ajudando a transformar código em valor real para o negócio, com integridade, domínio técnico e liderança discreta, mas decisiva.
 
 ## 🛠️ Principais Tecnologias
 
@@ -29,16 +39,6 @@ Experiência sólida em desenvolvimento de APIs REST, automação de bancos de d
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
 </div>
-
-🏆 Princípios e Práticas
-
-- Clean Code & SOLID  
-- Clean Architecture  
-- Testes automatizados  
-- Documentação clara  
-- Segurança desde a base do código  
-- Refatoração de sistemas legados
----
 
 ## 🌎 Onde me encontrar
 
