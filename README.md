@@ -42,7 +42,7 @@ Sou movido por desafios de alto impacto, ajudando a transformar código em valor
 
 ## 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/joao-emanuel-752778174/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/joao-emanuel-752778174/])  
 
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios, conectar e contribuir!
