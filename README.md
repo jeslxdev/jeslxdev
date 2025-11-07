@@ -27,7 +27,7 @@ I'm Software Engineer in **Platform Builders**.
 ### 🛠️ Technologies & Tools
 <div style="display: inline_block">
   <p align="left">
-    <img  align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,php,mysql,github,notion&perline=5" />
+    <img  align="center" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,php,mysql,github,python&perline=5" />
   </p>
 </div>
 
