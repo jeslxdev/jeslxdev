@@ -4,7 +4,7 @@
 
 ### Hey, I'm João, But you can call me Lima 👨🏻‍💻 
 
-I'm Software Engineer in **Platform Builders**.
+I'm FOUNDER in **Feilen Tech**.
               <br><br>
  Software Engineer | InfoSec | DevOps
  
