@@ -47,25 +47,33 @@ Hey, I'm João — but you can call me **Lima** 👋. I'm the **Founder of [Feil
 
 ### 🌍 International experience
 
-| Country | Engagement |
-|:--|:--|
-| 🇧🇷 Brazil | HQ — Feilen Tech, product & client delivery |
-| 🇵🇹 Portugal | Client software delivery & consulting |
-| 🇪🇸 Spain | Client software delivery & consulting |
-| 🇧🇪 Belgium | Client software delivery & consulting |
+<div align="center">
+
+|  |  |
+|:--:|:--|
+| 🇧🇷 **Brazil** | ![HQ](https://img.shields.io/badge/HQ-Product%20%26%20Client%20Delivery-1B4332?style=flat-square) |
+| 🇵🇹 **Portugal** | ![Client](https://img.shields.io/badge/Client-Software%20Delivery%20%26%20Consulting-2D6A4F?style=flat-square) |
+| 🇪🇸 **Spain** | ![Client](https://img.shields.io/badge/Client-Software%20Delivery%20%26%20Consulting-2D6A4F?style=flat-square) |
+| 🇧🇪 **Belgium** | ![Client](https://img.shields.io/badge/Client-Software%20Delivery%20%26%20Consulting-2D6A4F?style=flat-square) |
+
+</div>
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,php,laravel,mysql,postgres,docker,linux,bash,git,github,python,elixir&perline=9" />
-</p>
+**Languages**
+<p align="left"><img src="https://skillicons.dev/icons?i=js,ts,php,python,elixir,bash&perline=6" /></p>
 
-### 📊 GitHub stats
+**Frontend**
+<p align="left"><img src="https://skillicons.dev/icons?i=react,nextjs&perline=6" /></p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeslxdev&show_icons=true&hide_border=true&bg_color=1B4332&title_color=F2EDE4&icon_color=52B788&text_color=CDEFDD"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeslxdev&layout=compact&hide_border=true&bg_color=1B4332&title_color=F2EDE4&text_color=CDEFDD"/>
-</div>
+**Backend & Frameworks**
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel&perline=6" /></p>
+
+**Data & Infra**
+<p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux&perline=6" /></p>
+
+**Tools**
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github&perline=6" /></p>
 
 ### 🔗 Links
 
