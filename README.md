@@ -1,47 +1,60 @@
 <div align="center">
 
 <a href="https://feilen.tech">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=140&text=JO%C3%83O%20EMANUEL&fontColor=FFFFFF&fontSize=44&fontAlign=50&fontAlignY=42&desc=FOUNDER%20%40%20FEILEN%20SOLUTIONS%20IT&descAlign=50&descAlignY=70&descSize=14&descColor=A3A3A3" width="100%" alt="João Emanuel — Founder @ Feilen Solutions IT"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=140&text=JO%C3%83O%20EMANUEL&fontColor=FFFFFF&fontSize=44&fontAlign=50&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%C2%B7%20FOUNDER%20%C2%B7%20BUILDER&descAlign=50&descAlignY=70&descSize=14&descColor=A3A3A3" width="100%" alt="João Emanuel — Software Engineer, Founder and Builder"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4169E1&height=3" width="100%" alt=""/>
 
 <a href="https://feilen.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2600&pause=1100&color=4169E1&center=true&vCenter=true&width=640&lines=We+Build.+We+Scale.+We+Deliver.;Software+Delivery+%26+IT+Outsourcing;7%2B+years+%C2%B7+4+countries+%C2%B7+10%2B+in+production;Now+writing+at+feilen.tech%2Fblog" alt="We Build. We Scale. We Deliver."/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2600&pause=1100&color=4169E1&center=true&vCenter=true&width=680&lines=We+Build.+We+Scale.+We+Deliver.;Engineering+systems+that+matter.;Software+delivery+%C2%B7+security+%C2%B7+scalability;7%2B+years+%C2%B7+4+countries+%C2%B7+10%2B+systems+shipped;Now+writing+at+feilen.tech%2Fblog" alt="We Build. We Scale. We Deliver."/>
 </a>
 
 [![feilen.tech](https://img.shields.io/badge/FEILEN.TECH-4169E1?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)](https://feilen.tech)
 [![Blog](https://img.shields.io/badge/BLOG-FFFFFF?style=for-the-badge&logo=rss&logoColor=1A1A1A)](https://feilen.tech/blog)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/joao-emanuel-752778174/)
-[![Available](https://img.shields.io/badge/●%20AVAILABLE-4169E1?style=for-the-badge)](https://feilen.tech/#contact)
+[![Available](https://img.shields.io/badge/AVAILABLE-4169E1?style=for-the-badge)](https://feilen.tech/#contact)
 
 </div>
 
-### Hi, I'm João 👋
+### João, in one screen
 
-I build **critical systems** — secure architecture, high performance and legacy modernization — and I run **[Feilen Solutions IT](https://feilen.tech)**, a software delivery and IT outsourcing company for teams that **can't afford downtime**.
+I build **critical software** for teams that need clarity before code, reliability in production and a partner who stays for the hard parts. I also run **[Feilen Solutions IT](https://feilen.tech)**, a software delivery and IT outsourcing company.
 
-Glad you stopped by. Pick where you want to go:
+This profile is a small record of what I ship, what I learn and where I show up.
 
 | | | |
 |:--|:--|:--|
-| 🚀 **[What I've shipped](#-selected-delivery)** | ✍️ **[Blog](#%EF%B8%8F-blog)** | 🤝 **[Community](#-community)** |
-| ERPs, CRMs, APIs and mobile apps in production | Field notes on engineering and community | Volunteering and events |
-| 🧰 **[Stack](#-stack)** | 🧭 **[What I do](#-what-i-do)** | 📬 **[Work with me](#-work-with-me)** |
-| The tools I reach for | Eight capabilities, one team | Tell me what you need |
+| **Role** | Software engineer · founder · builder | **Base** | São José dos Campos, Brazil |
+| **Focus** | Critical systems · APIs · mobile · cloud | **Now** | Shipping Top3 mobile · writing at [feilen.tech/blog](https://feilen.tech/blog) |
+| **Track record** | 7+ years · 10+ systems · BR · PT · ES · BE | **Availability** | Open to selected projects and partnerships |
+
+<details>
+<summary><b>Navigate this profile</b></summary>
+
+<br/>
+
+| | | |
+|:--|:--|:--|
+| **[Proof of work](#-proof-of-work)** | **[Field notes](#-field-notes)** | **[Community](#-community)** |
+| Systems shipped and in progress | Engineering, delivery and community | Events, volunteering and talks |
+| **[How I work](#-how-i-work)** | **[Stack](#-stack)** | **[Work with me](#-work-with-me)** |
+| Principles behind the delivery | Tools I reach for | Start a conversation |
+
+</details>
 
 ```console
 > whoami — joão emanuel "lima" · software engineer · infosec · devops
 > mode ... founder @ feilen solutions it · são josé dos campos, br
-> stat ... 7+ years · 10+ systems shipped · 🇧🇷 🇵🇹 🇪🇸 🇧🇪
+> stat ... 7+ years · 10+ systems shipped · BR · PT · ES · BE
 > now .... shipping the top3 mobile app · writing at feilen.tech/blog
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" alt=""/>
 
-## 🚀 Selected delivery
+## Proof of work
 
-Click a case to open it.
+This is not a list of tools. It is a sample of systems delivered for real operational problems.
 
 <details open>
 <summary><b>EXTDS Portugal</b> — ERP, time-clock app and payments prototype</summary>
@@ -79,7 +92,7 @@ Proposals, commissions and integrations behind protected access: sales pipeline,
 </details>
 
 <details>
-<summary><b>Meet2Face</b> — nightlife app (Spain)</summary>
+<summary><b>Meet2Face</b> — nightlife app in Spain</summary>
 
 <br/>
 
@@ -88,7 +101,7 @@ Mobile app connecting people at events and clubs: geolocation, real-time chat, p
 </details>
 
 <details>
-<summary><b>Viaje Nones</b> — travel platform (Spain)</summary>
+<summary><b>Viaje Nones</b> — travel platform in Spain</summary>
 
 <br/>
 
@@ -96,17 +109,37 @@ WordPress site for a travel agency with integrated bookings, custom plugins and 
 
 </details>
 
-## ✍️ Blog
+## How I work
 
-I started writing at **[feilen.tech/blog](https://feilen.tech/blog)** — field notes on software engineering, community and what we learn while delivering.
+The Feilen way is simple: make the next decision clearer, make production safer and leave the system better than we found it.
+
+| Principle | What it looks like in practice |
+|:--|:--|
+| **Clarity before complexity** | Understand the operation, the constraints and the real failure modes before choosing architecture. |
+| **Delivery with ownership** | Move from discovery to production with one accountable technical partner. |
+| **Boring where it matters** | Prefer maintainable foundations, observable systems and fewer surprises over fashionable complexity. |
+| **Security as a feature** | Treat identity, payments, data and access control as part of the product—not a final checklist. |
+
+## What I do
+
+| Capability | Where I help |
+|:--|:--|
+| **Product engineering** | Web platforms, SaaS, ERPs and custom systems from first decision to production. |
+| **APIs & mobile** | REST APIs, iOS and Android apps built around real workflows and reliable integrations. |
+| **Cloud & security** | Containers, CI/CD, scalability, authentication, application security and LGPD / GDPR readiness. |
+| **Payments, AI & WordPress** | PIX, recurring billing, webhooks, LLM pipelines, automation and custom WordPress engineering. |
+
+## Field notes
+
+I write at **[feilen.tech/blog](https://feilen.tech/blog)** about engineering, delivery, community and what we learn while building.
 
 | Post | About |
 |:--|:--|
-| **[Um dia como staff no DevFest POA 26](https://feilen.tech/blog/devfest-poa-26)** 🇧🇷 | A day supporting the Sentinela track and hosting a room at DevFest POA 26. |
+| **[Um dia como staff no DevFest POA 26](https://feilen.tech/blog/devfest-poa-26)** | A day supporting the Sentinela track and hosting a room at DevFest POA 26. |
 
 [![RSS](https://img.shields.io/badge/RSS-follow%20the%20feed-4169E1?style=flat-square&logo=rss&logoColor=FFFFFF)](https://feilen.tech/api/rss)
 
-## 🤝 Community
+## Community
 
 Community is built by showing up.
 
@@ -114,27 +147,7 @@ Community is built by showing up.
 
 Running a meetup or an event and need a hand or a talk? [Reach out](#-work-with-me).
 
-## 🧭 What I do
-
-<details>
-<summary>Eight capabilities — click to expand</summary>
-
-<br/>
-
-| | |
-|:--|:--|
-| **Software Delivery** | Full product cycles from idea to production: web platforms, SaaS, ERPs and custom systems. |
-| **Mobile Apps** | iOS and Android apps built for performance and scale. |
-| **IT Outsourcing** | Senior engineers plugged straight into your team. |
-| **AI & LLM Pipelines** | LLM integrations, automation pipelines and AI features as a first-class layer. |
-| **Cloud & Scalability** | Microservices, containers and CI/CD on AWS, GCP or Azure. |
-| **Security & Compliance** | Application security, pentesting, LGPD / GDPR and authentication. |
-| **Payment Integrations** | Stripe, Abacate Pay, PIX, recurring billing and webhooks. |
-| **WordPress Engineering** | Custom plugins and long-term maintenance. |
-
-</details>
-
-## 🧰 Stack
+## Stack
 
 <div align="center">
 
@@ -144,11 +157,11 @@ Running a meetup or an event and need a hand or a talk? [Reach out](#-work-with-
 
 </div>
 
-Deep PHP background (Hyperf, Laravel, CodeIgniter) plus Node, Python and Java.
+Deep PHP background (Hyperf, Laravel, CodeIgniter) plus Node, Python and Java. The stack changes with the problem; the standard stays the same: understandable code, safe releases and useful systems.
 
-## 📬 Work with me
+## Work with me
 
-Tell me what you need — I reply within one business day.
+If you are modernising a legacy system, launching a product or need senior engineering capacity inside your team, **[tell me what you need](https://feilen.tech/#contact)**. I reply within one business day.
 
 [![Start a project](https://img.shields.io/badge/START%20A%20PROJECT-4169E1?style=for-the-badge)](https://feilen.tech/#contact)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/joao-emanuel-752778174/)
@@ -157,6 +170,6 @@ Tell me what you need — I reply within one business day.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A1A&height=54&text=WE%20BUILD.%20WE%20SCALE.%20WE%20DELIVER.&fontColor=FFFFFF&fontSize=16&fontAlign=50&fontAlignY=52" width="100%" alt="We Build. We Scale. We Deliver."/>
 
-<sub>● ALL SYSTEMS OPERATIONAL — <a href="https://feilen.tech">feilen.tech</a></sub>
+<sub>ALL SYSTEMS OPERATIONAL — <a href="https://feilen.tech">feilen.tech</a></sub>
 
 </div>
