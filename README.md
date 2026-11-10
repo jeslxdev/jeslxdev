@@ -22,33 +22,10 @@ Software delivery, legacy modernization, mobile apps, cloud infrastructure, appl
 
 ## Stack
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | PHP · TypeScript · JavaScript · Python · Java · Bash |
-| **Backend** | Laravel · Hyperf · CodeIgniter · Node.js · NestJS · Spring |
-| **Frontend & Mobile** | React · Next.js · React Native · Expo · Elementor |
-| **Data & Infrastructure** | MySQL · PostgreSQL · Docker · Linux · CI/CD |
-| **Integrations** | REST · OpenAPI · SOAP · Stripe · Abacate Pay · PIX · Webhooks |
-
-## Selected work
-
-- **EXTDS Portugal** — ERP, time-clock app and payments ecosystem. [ERP](https://erp.extds.eu)
-- **Top3 Imóveis** — payments plugin, REST API and React Native mobile app.
-- **Grupo Global** — operational CRM with sales pipeline, commissions and dashboards.
-- **Meet2Face** — nightlife app with geolocation, chat and matchmaking.
-
-## Writing
-
-Field notes on engineering, delivery and community at **[feilen.tech/blog](https://feilen.tech/blog)**.
-
-## Contact
-
-Available for selected projects, technical partnerships and senior engineering work.
-
-[Start a project](https://feilen.tech/#contact) · [LinkedIn](https://www.linkedin.com/in/joao-emanuel-752778174/)
-
 <div align="center">
 
-<sub>WE BUILD. WE SCALE. WE DELIVER. — <a href="https://feilen.tech">feilen.tech</a></sub>
+<img src="https://skillicons.dev/icons?i=php,ts,js,python,java,bash,react,nextjs&perline=8" alt="PHP, TypeScript, JavaScript, Python, Java, Bash, React, Next.js"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,mysql,postgres,docker,linux&perline=8" alt="Node.js, NestJS, Laravel, Spring, MySQL, PostgreSQL, Docker, Linux"/>
 
 </div>
